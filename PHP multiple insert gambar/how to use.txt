@@ -1,0 +1,8 @@
+import database from folder database
+copy all folder to your htdocs
+
+enjoy
+
+created by :
+arsiteckweb
+100persenworking.blogspot.com
